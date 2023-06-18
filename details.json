@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sonya",
+        "username": "sonya123",
+        "email": "sonya@gmail",
+        "age": 20,
+        "address": {
+            "state": "MH",
+            "city": "Mumbai"
+        }
+    },
+    {
+        "name": "Ganya",
+        "username": "ganya123",
+        "email": "ganya@gmail",
+        "age": 23,
+        "address": {
+            "state": "TN",
+            "city": "chennai"
+        }
+    },
+    {
+        "name": "Manya",
+        "username": "manya123",
+        "email": "manya@gmail",
+        "age": 25,
+        "address": {
+            "state": "DL",
+            "city": "Delhi"
+        }
+    }
+]
